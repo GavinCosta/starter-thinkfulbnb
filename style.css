@@ -91,6 +91,7 @@ form div {
   display: flex;
   justify-content: space-between;
   padding: 5px;
+  
 }
 form {
   border: 2px solid #ff385c;
@@ -107,7 +108,7 @@ form label {
 form select,
 form input {
   margin-bottom: 20px;
-  width: 100%;
+  width: 55%;
 }
 
 form button {
